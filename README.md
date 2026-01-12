@@ -102,7 +102,7 @@ JobEngine/
 cd Backend
 npm install
 # Create .env with GITHUB_TOKEN and other configs
-npm run dev  # or node src/server.js
+node src/server.js
 ```
 
 ### Frontend
